@@ -11,10 +11,5 @@ import 'src/application.scss'
 
 import 'src/bootstrap.js'
 
-import fontawesome from '@fortawesome/fontawesome'
-import faGithub from '@fortawesome/fontawesome-free-brands/faGithub'
-
-fontawesome.library.add(faGithub)
-
 RailsUjs.start()
 Turbolinks.start()
